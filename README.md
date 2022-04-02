@@ -35,7 +35,7 @@ You can learn about Web3 Concepts from my blog =>  { https://tobit.hashnode.dev/
 
 📱 Contact Me
 
-<a href="instagram.com"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+<a href="https://twitter.com/ElderAjuka"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
      alt="Twitter"
      style="float: left; margin-right: 10px;" /> </a>
 
