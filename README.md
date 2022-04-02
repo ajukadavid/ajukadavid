@@ -1,6 +1,7 @@
 ### Hi there, I'm Ajuka David 👋
 
-I'm a Frontend Developer & Javascript Engineer. This is me when i'm not at the beach or in church
+I'm a Frontend Developer & Javascript Engineer. This is me when i'm not at the beach or in church.
+
 
 
 ![programming](https://user-images.githubusercontent.com/25822805/161375816-fc18355a-ff71-404c-9ab4-7258dc138281.gif)
@@ -13,9 +14,9 @@ Feel free to reach out for collaborations
 
 
 - 🔭 I’m currently working on being the best Javascript Developer there is
-- 🌱 I’m currently learning A lot of Javascript 
+- 🌱 I’m currently learning A lot of Javascript++ 
 
-
+You can learn about Web3 Concepts from my blog =>  { https://tobit.hashnode.dev/ }
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ithiel883&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
