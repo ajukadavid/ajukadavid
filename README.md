@@ -33,7 +33,11 @@ You can learn about Web3 Concepts from my blog =>  { https://tobit.hashnode.dev/
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ithiel883&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+📱 Contact Me
 
+<a href="instagram.com"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+     alt="Twitter"
+     style="float: left; margin-right: 10px;" /> </a>
 
 <!--
 **ithiel883/ithiel883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
