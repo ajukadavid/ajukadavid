@@ -3,7 +3,7 @@
 I'm a Frontend Developer & Javascript Enginneer. This is me when i'm not at the beach or in church
 
 
-https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif
+![programming](https://user-images.githubusercontent.com/25822805/161375816-fc18355a-ff71-404c-9ab4-7258dc138281.gif)
 
 
 
@@ -15,17 +15,10 @@ Please feel free to reach out! Just don't be another number![visitors](https://v
 - 🌱 I’m currently learning A lot of Javascript 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ithiel883&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
- 
- 
- 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ithiel883&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ithiel883)](https://github.com/ithiel883/ithiel883)
 
 <!--
 **ithiel883/ithiel883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
