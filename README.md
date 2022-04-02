@@ -29,15 +29,25 @@ Feel free to reach out for collaborations
 - 🔭 I’m currently working on being the best Javascript Developer there is
 - 🌱 I’m currently learning A lot of Javascript++ 
 
-You can learn about Web3 Concepts from my blog =>  { https://tobit.hashnode.dev/ }
+You can learn about Web3 Concepts from my blog:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ithiel883&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://tobit.hashnode.dev/"> <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"
+     alt="Twitter"
+     style="float: left; margin-right: 10px;" /> </a>
+
 
 📱 Contact Me
 
 <a href="https://twitter.com/ElderAjuka"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
      alt="Twitter"
+     style="float: left; margin-right: 10px;" /> </a> <a href="https://www.linkedin.com/in/david-ajuka-630660144/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+     alt="LinkedIin"
+     style="float: left; margin-right: 10px;" /> </a> <a href="mailto:ajuka.zephiniah@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+     alt="LinkedIin"
      style="float: left; margin-right: 10px;" /> </a>
+     
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ithiel883&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 <!--
 **ithiel883/ithiel883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
