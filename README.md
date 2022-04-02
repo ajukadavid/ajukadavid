@@ -1,6 +1,6 @@
 ### Hi there, I'm Ajuka David 👋
 
-I'm a Frontend Developer & Javascript Enginneer. This is me when i'm not at the beach or in church
+I'm a Frontend Developer & Javascript Engineer. This is me when i'm not at the beach or in church
 
 
 ![programming](https://user-images.githubusercontent.com/25822805/161375816-fc18355a-ff71-404c-9ab4-7258dc138281.gif)
