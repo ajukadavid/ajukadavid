@@ -46,8 +46,6 @@ You can learn about Web3 Concepts from my blog:
      alt="LinkedIin"
      style="float: left; margin-right: 10px;" /> </a>
      
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ithiel883&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 
 <!--
 **ithiel883/ithiel883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
