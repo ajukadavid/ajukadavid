@@ -7,8 +7,9 @@ I'm a Frontend Developer & Javascript Engineer. This is me when i'm not at the b
 
 
 
-Please feel free to reach out! Just don't be another number![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+Feel free to reach out for collaborations
 
 
 - 🔭 I’m currently working on being the best Javascript Developer there is
