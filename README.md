@@ -2,8 +2,8 @@
 
 I'm a Frontend Developer & Javascript Enginneer.
 
+![programming](https://user-images.githubusercontent.com/25822805/161375568-a25bc758-21b3-42de-a582-a3d02b259c05.gif)
 
-https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif
 
 Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
