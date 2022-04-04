@@ -47,6 +47,9 @@ You can learn about Web3 Concepts from my blog:
      style="float: left; margin-right: 10px;" /> </a>
      
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **ithiel883/ithiel883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
