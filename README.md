@@ -1,6 +1,8 @@
 ### Hi there, I'm Ajuka David 🥷
 
-I'm a Frontend Developer & Javascript Engineer. This is me when i'm not at the beach or in church.
+I'm a Frontend Developer & Javascript Engineer. I ❤ Jesus.
+
+This is probably what i look like while working.
 
 
 
