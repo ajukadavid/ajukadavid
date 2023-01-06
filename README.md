@@ -50,7 +50,10 @@ You can learn about Web3 Concepts from my blog:
      
 
 <!--START_SECTION:waka-->
-<a href="https://wakatime.com"><img style="width: 700px; height: 500px;" src="https://wakatime.com/share/@39aa644d-0d3a-4bea-b2ec-5bec1727c16b/9e194353-716a-474c-8869-249f6757e24a.png" /></a>
+<div style="width: 200px; height: 200px">
+ <a href="https://wakatime.com"><img style="width: 100%; height: auto" src="https://wakatime.com/share/@39aa644d-0d3a-4bea-b2ec-5bec1727c16b/9e194353-716a-474c-8869-249f6757e24a.png" /></a>    
+ </div>
+
 <!--END_SECTION:waka-->
 
 <!--
