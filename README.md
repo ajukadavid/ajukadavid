@@ -51,6 +51,14 @@ You can learn about Web3 Concepts from my blog:
 
 <!--START_SECTION:waka-->
 
+```text
+Vue.js       61 hrs 18 mins  ███████████████████░░░░░░   76.27 %
+TypeScript   14 hrs 8 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.60 %
+JavaScript   2 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+JSON         1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+TSConfig     48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+HTML         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+```
 
 <!--END_SECTION:waka-->
 
