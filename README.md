@@ -1,6 +1,6 @@
 ### Hi there, I'm Ajuka David 🥷
 
-Frontend Developer & Javascript Engineer.
+Basically, I like coding.
 
 This is probably what i look like while working.
 
@@ -31,7 +31,7 @@ Feel free to reach out for collaborations
 - 🔭 I’m currently working on being the best Javascript Developer there is
 - 🌱 I’m currently learning A lot of Javascript++ 
 
-You can learn about Web3 Concepts from my blog:
+You can learn about Technical Concepts from my blog:
 
 <a href="https://tobit.hashnode.dev/"> <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"
      alt="Twitter"
