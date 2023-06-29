@@ -48,11 +48,11 @@ You can learn about Technical Concepts from my blog:
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       24 hrs 4 mins   ████████████████████░░░░░   80.33 %
-JavaScript   2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-HTML         1 hr 57 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-JSON         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-TypeScript   43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Vue.js       21 hrs 56 mins  ████████████████▓░░░░░░░░   66.46 %
+JavaScript   5 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
+HTML         2 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+JSON         2 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+TypeScript   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
