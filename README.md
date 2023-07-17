@@ -1,12 +1,9 @@
 ### Hi there, I'm Ajuka David 🥷
 
-Basically, I like coding.
-
-This is probably what i look like while working.
+FullStack JS Engineer.
 
 
 
-![programming](https://user-images.githubusercontent.com/25822805/161375816-fc18355a-ff71-404c-9ab4-7258dc138281.gif)
 
 💼 Technical Skills 
 
@@ -35,10 +32,7 @@ You can learn about Technical Concepts from my blog:
 
 
 📱 Contact Me
-
-<a href="https://twitter.com/ElderAjuka"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-     alt="Twitter"
-     style="float: left; margin-right: 10px;" /> </a> <a href="https://www.linkedin.com/in/david-ajuka-630660144/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+<a href="https://www.linkedin.com/in/david-ajuka-630660144/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
      alt="LinkedIin"
      style="float: left; margin-right: 10px;" /> </a> <a href="mailto:ajuka.zephiniah@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
      alt="LinkedIin"
