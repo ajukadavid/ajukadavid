@@ -1,15 +1,17 @@
 ### Hi there, I'm Ajuka David 🥷
 
-I Enjoy Learning New Things.
+I Enjoy Learning New Things and building Quality Products.
 
-You can learn about Technical Concepts from my blog:
+Fun fact about me: I'm obsessed with the process of coding, I love turning seemingly meaningless lines of alphanumeric characters into actual products that people use.
+
+Read my blog:
 
 <a href="https://tobit.hashnode.dev/"> <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"
      alt="Twitter"
      style="float: left; margin-right: 10px;" /> </a>
 
 
-📱 Contact Me
+📱 Connect with me: 
 
 <br />
 <a href="https://www.linkedin.com/in/david-ajuka-630660144/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
