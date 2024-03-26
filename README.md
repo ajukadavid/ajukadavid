@@ -24,7 +24,7 @@ Read my blog:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   15 mins         █████████████████████████   100.00 %
+HTML   1 hr 30 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
