@@ -24,9 +24,11 @@ Read my blog:
 <!--START_SECTION:waka-->
 
 ```txt
-Solidity   4 hrs 41 mins   █████████████▓░░░░░░░░░░░   54.34 %
-Python     3 hrs 54 mins   ███████████▒░░░░░░░░░░░░░   45.40 %
-Git        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Vue.js       17 hrs 16 mins  █████████████▓░░░░░░░░░░░   55.20 %
+Python       7 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.28 %
+Solidity     4 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+CSS          55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+JavaScript   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
