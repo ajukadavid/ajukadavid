@@ -24,10 +24,7 @@ Read my blog:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 26 mins    ███████████████████████▓░   94.20 %
-JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
