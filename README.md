@@ -24,7 +24,11 @@ Read my blog:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TSConfig     13 mins         █████████▒░░░░░░░░░░░░░░░   37.26 %
+JSON         13 mins         █████████▒░░░░░░░░░░░░░░░   37.20 %
+TypeScript   8 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.77 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
