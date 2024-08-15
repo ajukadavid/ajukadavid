@@ -24,9 +24,7 @@ Read my blog:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         17 mins         ██████████████░░░░░░░░░░░   55.53 %
-TypeScript   10 mins         ████████░░░░░░░░░░░░░░░░░   31.95 %
-Other        3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+JSON   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
