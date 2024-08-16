@@ -24,7 +24,7 @@ Read my blog:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   9 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
