@@ -24,7 +24,11 @@ Read my blog:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Vue.js       37 mins         █████████████████▒░░░░░░░   69.67 %
+TypeScript   11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
+CSS          3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
