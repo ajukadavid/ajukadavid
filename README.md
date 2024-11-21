@@ -24,7 +24,8 @@ Read my blog:
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js   29 mins         █████████████████████████   100.00 %
+Vue.js       1 hr 7 mins     ████████████████████████░   95.80 %
+TypeScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
 ```
 
 <!--END_SECTION:waka-->
