@@ -24,11 +24,11 @@ Read my blog:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   14 hrs 15 mins  ██████████████▒░░░░░░░░░░   57.05 %
-Other        4 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
-Bash         2 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
-JSON         2 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-Git Config   47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+TypeScript   13 hrs 19 mins  ███████████▓░░░░░░░░░░░░░   46.71 %
+JSON         7 hrs 8 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
+Other        4 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
+Bash         2 hrs 44 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+Git Config   47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 
 <!--END_SECTION:waka-->
