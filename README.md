@@ -24,9 +24,9 @@ Read my blog:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        2 hrs 57 mins   ██████████████████▓░░░░░░   75.28 %
-HTML         48 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
-TypeScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+HTML         4 hrs 37 mins   ██████████████▒░░░░░░░░░░   56.93 %
+Other        2 hrs 57 mins   █████████░░░░░░░░░░░░░░░░   36.33 %
+TypeScript   32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
 ```
 
 <!--END_SECTION:waka-->
