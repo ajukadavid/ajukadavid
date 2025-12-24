@@ -24,7 +24,10 @@ Read my blog:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   4 hrs 21 mins   ██████████████████████░░░   87.41 %
+Git Config   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+Markdown     15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
