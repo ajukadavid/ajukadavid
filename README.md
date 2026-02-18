@@ -24,10 +24,10 @@ Read my blog:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         7 hrs 16 mins   █████████▓░░░░░░░░░░░░░░░   38.49 %
-TypeScript   5 hrs 58 mins   ████████░░░░░░░░░░░░░░░░░   31.62 %
-Other        4 hrs 52 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.82 %
-Markdown     46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Bash         6 hrs 40 mins   █████████▓░░░░░░░░░░░░░░░   38.86 %
+TypeScript   4 hrs 53 mins   ███████░░░░░░░░░░░░░░░░░░   28.45 %
+Other        4 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   28.37 %
+Markdown     44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
 ```
 
 <!--END_SECTION:waka-->
