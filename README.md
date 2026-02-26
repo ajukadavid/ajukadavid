@@ -39,11 +39,10 @@
 
 ## 🌟 Featured Work
 
-> Replace the placeholders below with your best repositories.
-
-- **Project One** – Short one-line value statement + stack used.
-- **Project Two** – Short one-line value statement + stack used.
-- **Project Three** – Short one-line value statement + stack used.
+- [🔁 Recently updated repositories](https://github.com/ajukadavid?tab=repositories&q=&type=&sort=updated) — See what I'm actively shipping right now.
+- [⭐ Most starred repositories](https://github.com/ajukadavid?tab=repositories&q=&type=&sort=stargazers) — Projects that have received the most community interest.
+- [🧩 JavaScript projects](https://github.com/ajukadavid?tab=repositories&q=&type=&language=javascript&sort=updated) — Selected JavaScript work and experiments.
+- [📦 Full repositories list](https://github.com/ajukadavid?tab=repositories) — Browse all my public projects in one place.
 
 ## 📈 Activity & Coding Time
 
