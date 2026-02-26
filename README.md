@@ -1,31 +1,68 @@
-### Hi there, I'm Ajuka David 🥷
+<h1 align="center">Hi 👋, I'm Ajuka David</h1>
+<h3 align="center">Backend & Full-stack Engineer • Building quality products with clean, reliable systems</h3>
 
-I Enjoy Learning New Things and building Quality Products.
+<p align="center">
+  <a href="https://tobit.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog" />
+  </a>
+  <a href="https://www.linkedin.com/in/david-ajuka-630660144/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-David%20Ajuka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ajuka.zephiniah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ajuka.zephiniah%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-Fun fact about me: I'm obsessed with the process of coding, I love turning seemingly meaningless lines of alphanumeric characters into actual products that people use.
+---
 
-Read my blog:
+## 🚀 About Me
 
-<a href="https://tobit.hashnode.dev/"> <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"
-     alt="Twitter"
-     style="float: left; margin-right: 10px;" /> </a>
+- 🔭 I enjoy learning new things and turning ideas into products people actually use.
+- 🧠 I care deeply about code quality, maintainability, and product impact.
+- ✍️ I share thoughts and technical writing on my [Hashnode blog](https://tobit.hashnode.dev/).
+- 🤝 Open to collaborating on meaningful projects and engineering opportunities.
 
+## 🧰 Tech Stack
 
-📱 Connect with me: 
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<br />
-<a href="https://www.linkedin.com/in/david-ajuka-630660144/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-     alt="LinkedIin"
-     style="float: left; margin-right: 10px;" /> </a> <a href="mailto:ajuka.zephiniah@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-     alt="LinkedIin"
-     style="float: left; margin-right: 10px;" /> </a>
-     
+## 🌟 Featured Work
+
+- [🔁 Recently updated repositories](https://github.com/ajukadavid?tab=repositories&q=&type=&sort=updated) — See what I'm actively shipping right now.
+- [⭐ Most starred repositories](https://github.com/ajukadavid?tab=repositories&q=&type=&sort=stargazers) — Projects that have received the most community interest.
+- [🧩 JavaScript projects](https://github.com/ajukadavid?tab=repositories&q=&type=&language=javascript&sort=updated) — Selected JavaScript work and experiments.
+- [📦 Full repositories list](https://github.com/ajukadavid?tab=repositories) — Browse all my public projects in one place.
+
+## 📈 Activity & Coding Time
 
 <!--START_SECTION:waka-->
-
 ```txt
-Other        10 hrs 38 mins        ██████████████████████▒░░   88.75 %
-TypeScript   1 hr 20 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+Other        9 hrs 52 mins         ██████████████████████░░░   87.99 %
+TypeScript   1 hr 20 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
 ```
-
 <!--END_SECTION:waka-->
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ajukadavid&show_icons=true&theme=default" alt="GitHub stats" />
+</p>
+
+## 📫 Let’s Connect
+
+- Blog: [tobit.hashnode.dev](https://tobit.hashnode.dev/)
+- LinkedIn: [david-ajuka-630660144](https://www.linkedin.com/in/david-ajuka-630660144/)
+- Email: [ajuka.zephiniah@gmail.com](mailto:ajuka.zephiniah@gmail.com)
+
+---
+
+⭐️ _Thanks for visiting my profile. Feel free to connect!_
