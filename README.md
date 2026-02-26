@@ -53,9 +53,6 @@ TypeScript   1 hr 20 mins          ███░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ajukadavid&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
 
 ## 📫 Let’s Connect
 
