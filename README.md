@@ -49,11 +49,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other          8 hrs 28 mins         ████████████░░░░░░░░░░░░░   48.29 %
-TypeScript     5 hrs 45 mins         ████████▒░░░░░░░░░░░░░░░░   32.75 %
-Git Config     3 hrs 6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
-Image (jpeg)   5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Markdown       4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Other          8 hrs 28 mins         ███████████████▒░░░░░░░░░   61.85 %
+Git Config     3 hrs 6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
+TypeScript     1 hr 54 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+Image (jpeg)   5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Markdown       4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
